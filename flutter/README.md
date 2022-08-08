@@ -1,13 +1,15 @@
-Flutter Developer Tools
+Flutter Commands
 
-## Developer Tools
-Dev Tools help developers to save time by using pre-written shell scripts for performing the below operations:
+## Flutter Commands
+Flutter Commands help developers to save time by using pre-written shell scripts for performing the below operations:
 - [x] Doctor
+- [x] Run
+- [x] Build
 
 ## Getting started
-Run the command below to install dev_tools
+Run the command below to install flutter_cmd
 ```bash
 flutter pub get
-flutter pub run dev_tools:install 
+flutter pub run cmd:install 
 ```
-In your project root directory you will find project/`dev_tools`/ 
+In your project root directory you will find project/`cmd`/ 

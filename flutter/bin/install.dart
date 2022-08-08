@@ -15,20 +15,20 @@ void main() async {
   try {
     for (String script in scripts) {
       HttpClientRequest request = await client.getUrl(Uri.parse(
-          'https://raw.githubusercontent.com/UsamaSarwar/dev_tools/main/flutter/dev_tools/$script'));
+          'https://raw.githubusercontent.com/UsamaSarwar/cmd/main/flutter/cmd/$script'));
       HttpClientResponse response = await request.close();
       repoData = await response.transform(utf8.decoder).join();
       print(
-          '🔹 \x1B[36m$script has been installed at \x1B[37m${Directory.current.path}\\\x1B[36mdev_tools\\$script\x1B[0m');
-      File('dev_tools/$script').createSync(recursive: true);
-      File('dev_tools/$script').writeAsStringSync(
+          '🔹 \x1B[36m$script has been installed at \x1B[37m${Directory.current.path}\\\x1B[36mcmd\\$script\x1B[0m');
+      File('cmd/$script').createSync(recursive: true);
+      File('cmd/$script').writeAsStringSync(
         repoData,
         flush: true,
       );
     }
     print('''\n
-📁 \x1B[33mdev_tools has been installed at \x1B[37m${Directory.current.path}\\\x1B[33mdev_tools\x1B[0m\n\n
-✅ \x1B[32mdev_tools installed successfully!\x1B[0m
+📁 \x1B[33mcmd has been installed at \x1B[37m${Directory.current.path}\\\x1B[33mcmd\x1B[0m\n\n
+✅ \x1B[32mcmd installed successfully!\x1B[0m
 ''');
   } catch (exception) {
     print('⚠️  \x1B[31m${exception.toString()}\x1B[0m');
