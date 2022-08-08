@@ -8,6 +8,6 @@ Dev Tools help developers to save time by using pre-written shell scripts for pe
 Run the command below to install dev_tools
 ```bash
 flutter pub get
-flutter pub run dev_tools:flutter 
+flutter pub run dev_tools:install 
 ```
 In your project root directory you will find project/`dev_tools`/ 
