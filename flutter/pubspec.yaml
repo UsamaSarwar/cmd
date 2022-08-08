@@ -1,0 +1,19 @@
+name: dev_tools
+description: Flutter Developer Tools
+version: 0.0.1
+homepage: https://github.com/UsamaSarwar/dev_tools/flutter
+
+environment:
+  sdk: ">=2.17.6 <3.0.0"
+  flutter: ">=1.17.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^2.0.0
+
+flutter:
