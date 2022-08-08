@@ -7,9 +7,9 @@ Flutter Commands help developers to save time by using pre-written shell scripts
 - [x] Build
 
 ## Getting started
-Run the command below to install flutter_cmd
+Run the command below to install cmd
 ```bash
 flutter pub get
 flutter pub run cmd:install 
 ```
-In your project root directory you will find project/`cmd`/ 
+In your project root directory you will find under /project_root/`cmd`/ 
