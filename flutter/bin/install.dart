@@ -12,6 +12,7 @@ void main() async {
 
   /// HTTP client
   HttpClient client = HttpClient();
+
   /// Try to get the repository data
   try {
     /// Getting all the scripts
@@ -25,8 +26,10 @@ void main() async {
       repoData = await response.transform(utf8.decoder).join();
       print(
           '🔹 \x1B[36m$script has been installed at \x1B[37m${Directory.current.path}\\\x1B[36mcmd\\$script\x1B[0m');
+
       /// Creating the script file
       File('cmd/$script').createSync(recursive: true);
+
       /// Write the script data to the file
       File('cmd/$script').writeAsStringSync(
         repoData,

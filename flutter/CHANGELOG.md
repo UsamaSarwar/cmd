@@ -1,5 +1,7 @@
-## 0.0.6
+## 0.0.7
 - Improving Pub Points
+- Formatting
+- Documentation
 
 ## 0.0.4
 
