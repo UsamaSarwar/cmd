@@ -4,7 +4,7 @@
 [![Likes](https://img.shields.io/pub/likes/cmd)](https://pub.dev/packages/cmd/score)
 [![Telegram](https://img.shields.io/badge/Telegram--blue?logo=telegram&logoColor=white)](https://t.me/UsamaSarwar)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp--tgreen?logo=whatsapp&logoColor=white)](https://wa.me/923100007773)
-[![Contribute Now](https://img.shields.io/badge/Contribute--blue?logo=Github&logoColor=white)](https://github.com/UsamaSarwar/cmd/blob/main/flutter/CONTRIBUTING.MD)
+[![Contribute Now](https://img.shields.io/badge/Contribute--blue?logo=Github&logoColor=white)](https://github.com/UsamaSarwar/cmd/blob/main/flutter/CONTRIBUTING.md)
 [![Donate Now](https://img.shields.io/badge/Donate--blue?logo=buy-me-a-coffee&logoColor=white)](https://www.buymeacoffee.com/UsamaSarwar)
 
 <img align="left" alt="flutter cmd" src="https://raw.githubusercontent.com/UsamaSarwar/cmd/main/flutter/assets/path.png" height="auto" width ="30%"/>
@@ -60,7 +60,7 @@ In your project root directory you will find a folder **cmd** that contains all 
 - Alternatively use these short keys <kbd>Ctrl</kbd> + <kbd>Alt</kbd> + <kbd>N</kbd> when the script is opened.
 
 ## Contribution 💙
-You are warmly welcome for contributing **cmd** package. You may add single line scripts or batch scripts such as `cmd/build.sh`. Checkout this [contribution guide.](https://github.com/UsamaSarwar/cmd/blob/main/flutter/CONTRIBUTING.MD)
+You are warmly welcome for contributing **cmd** package. You may add single line scripts or batch scripts such as `cmd/build.sh`. Checkout this [contribution guide.](https://github.com/UsamaSarwar/cmd/blob/main/flutter/CONTRIBUTING.md)
 
 <p align="center"> <img src="https://raw.githubusercontent.com/UsamaSarwar/cmd/main/flutter/assets/contribution.svg" alt="cmd contributions" /> </p>
 
