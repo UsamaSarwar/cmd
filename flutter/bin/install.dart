@@ -3,13 +3,9 @@
 import 'dart:convert';
 import 'dart:io';
 
+import 'scripts.dart';
+
 void main() async {
-  /// List of all the scripts at online GitHub Repository
-  List<String> scripts = [
-    'doctor.sh',
-    'run.sh',
-    'build.sh',
-  ];
   String repoData;
   HttpClient client = HttpClient();
   try {

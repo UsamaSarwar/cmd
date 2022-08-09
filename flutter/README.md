@@ -38,19 +38,17 @@ In your project root directory you will find a folder **cmd** that contains all 
 
 ## Usage
 
-> VS Code
+<img align="right" alt="FAQs" src="https://raw.githubusercontent.com/UsamaSarwar/cmd/main/flutter/assets/faq.png" height="auto" width ="30%"/>
+
+### VS Code
 
 - Install [Code Runner](https://marketplace.visualstudio.com/items?itemName=formulahendry.code-runner) Extension
 - Right click on Script you want to execute and select `Run Code`
 - Alternatively use this short key <kbd>Ctrl</kbd> + <kbd>Alt</kbd> + <kbd>N</kbd> after opening the file
 
-## Frequently Asked Questions ~ FAQs
+## Contribution
+You are warmly welcome to contribute. Checkout this [guide](https://github.com/UsamaSarwar/cmd/blob/main/flutter/CONTRIBUTING.MD)
 
-<img align="right" alt="FAQs" src="https://raw.githubusercontent.com/UsamaSarwar/cmd/main/flutter/assets/faq.png" height="auto" width ="30%"/>
-
-> #### How to contribute to cmd?
->
-> Soon I will publish guidelines on how to contribute this package ✌🏻
 
 <p align="left"> <img src="https://raw.githubusercontent.com/UsamaSarwar/cmd/main/flutter/assets/contribution.svg" alt="Usama Sarwar Contributions" /> </p>
 
