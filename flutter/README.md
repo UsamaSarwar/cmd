@@ -50,7 +50,7 @@ In your project root directory you will find a folder **cmd** that contains all 
 You are warmly welcome to contribute. Checkout this [guide](https://github.com/UsamaSarwar/cmd/blob/main/flutter/CONTRIBUTING.MD)
 
 
-<p align="left"> <img src="https://raw.githubusercontent.com/UsamaSarwar/cmd/main/flutter/assets/contribution.svg" alt="Usama Sarwar Contributions" /> </p>
+<p align="center"> <img src="https://raw.githubusercontent.com/UsamaSarwar/cmd/main/flutter/assets/cmd.jpg" alt="Usama Sarwar Contributions" /> </p>
 
 <p align="center">Open Source Contributor from <b>Punjab, Pakistan</b> 🇵🇰 </p>
 <div align="center"><br>
