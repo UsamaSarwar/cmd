@@ -1,17 +1,17 @@
 [![pub package](https://img.shields.io/pub/v/cmd.svg?label=cmd&color=blue)](https://pub.dev/packages/cmd)
-[![popularity](https://badges.bar/cmd/popularity)](https://pub.dev/packages/cmd/score)
-[![likes](https://badges.bar/cmd/likes)](https://pub.dev/packages/cmd/score)
-[![pub points](https://badges.bar/cmd/pub%20points)](https://pub.dev/packages/cmd/score)
+[![Pub Points](https://img.shields.io/pub/points/cmd)](https://pub.dev/packages/cmd/score)
+[![Popularity](https://img.shields.io/pub/popularity/cmd)](https://pub.dev/packages/cmd/score)
+[![Likes](https://img.shields.io/pub/likes/cmd)](https://pub.dev/packages/cmd/score)
 [![Telegram](https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white)](https://t.me/UsamaSarwar)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-tgreen?logo=whatsapp&logoColor=white)](https://wa.me/923100007773)
 [![Donate Now](https://img.shields.io/badge/Donate-cmd-FFDD00?logo=buy-me-a-coffee&logoColor=white)](https://www.buymeacoffee.com/UsamaSarwar)
 
-<img align="left" alt="flutter cmd" src="assets/path.png" height="auto" width ="30%"/>
+<img align="left" alt="flutter cmd" src="https://raw.githubusercontent.com/UsamaSarwar/cmd/main/flutter/assets/path.png" height="auto" width ="30%"/>
 <p align="justify">
 Flutter, a mobile development UI kit managed by Google comes with the handy CLI (Command Line Interface). It lets you do the same tasks that you perform using IDE. This package will help you quickly running the important CLI commands that are used in almost all Flutter projects by running scripts. Flutter developers find it difficult to type commands again and again and sometimes you need to run a series of commands one after another. This is where this package is helpful. Flutter's <b>cmd</b> package helps developers to save time by using pre-written shell scripts for performing the below operations:
 </p>
 
-<img align="right" alt="flutter cmd" src="assets/coding.gif" height="auto" width ="150"/>
+<img align="right" alt="flutter cmd" src="https://raw.githubusercontent.com/UsamaSarwar/cmd/main/flutter/assets/coding.gif" height="auto" width ="150"/>
 
 - [doctor](https://raw.githubusercontent.com/UsamaSarwar/cmd/main/flutter/cmd/doctor.sh)
 - [run](https://raw.githubusercontent.com/UsamaSarwar/cmd/main/flutter/cmd/run.sh)
@@ -19,35 +19,40 @@ Flutter, a mobile development UI kit managed by Google comes with the handy CLI 
 - more coming soon...
 
 ## Installation
+
 In your pubspec.yaml:
+
 ```yaml
 dev_dependencies:
-  cmd: 
+  cmd:
 ```
 
 Run the following commands below to install **cmd**:
+
 ```bash
 flutter pub get
-flutter pub run cmd:install 
+flutter pub run cmd:install
 ```
+
 In your project root directory you will find a folder **cmd** that contains all available scripts.
 
 ## Usage
+
 > VS Code
 
 - Install [Code Runner](https://marketplace.visualstudio.com/items?itemName=formulahendry.code-runner) Extension
 - Right click on Script you want to execute and select `Run Code`
 - Alternatively use this short key <kbd>Ctrl</kbd> + <kbd>Alt</kbd> + <kbd>N</kbd> after opening the file
 
-
 ## Frequently Asked Questions ~ FAQs
 
-<img align="right" alt="FAQs" src="assets/faq.png" height="auto" width ="30%"/>
+<img align="right" alt="FAQs" src="https://raw.githubusercontent.com/UsamaSarwar/cmd/main/flutter/assets/faq.png" height="auto" width ="30%"/>
 
 > #### How to contribute to cmd?
+>
 > Soon I will publish guidelines on how to contribute this package ✌🏻
 
-<p align="left"> <img src="assets/contribution.svg" alt="Usama Sarwar Contributions" /> </p>
+<p align="left"> <img src="https://raw.githubusercontent.com/UsamaSarwar/cmd/main/flutter/assets/contribution.svg" alt="Usama Sarwar Contributions" /> </p>
 
 <p align="center">Open Source Contributor from <b>Punjab, Pakistan</b> 🇵🇰 </p>
 <div align="center"><br>
