@@ -2,7 +2,7 @@
 
 [![Flutter Package](https://img.shields.io/badge/Pub-cmd-blue?logo=dart&logoColor=white)](https://github.com/UsamaSarwar/cmd/blob/main/flutter/CONTRIBUTING.MD)
 
-Read our [Code of Conduct](./CODE_OF_CONDUCT.md) to keep our community approachable and respectable.
+Read our [Code of Conduct](./CODE_OF_CONDUCT.MD) to keep our community approachable and respectable.
 
 ## Directory Structure Guide
 _The scripts are categorized by framework wise. So, developers from other stack may find useful scripts easily._

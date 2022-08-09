@@ -3,7 +3,7 @@ _Flutter command line toolkit_
 
 Thank you for investing your time in contributing to **cmd** project! Any contribution you make will be reflected on [pub.dev/packages/cmd](https://pub.dev/packages/cmd). 
 
-Read our [Code of Conduct](./CODE_OF_CONDUCT.md) to keep our community approachable and respectable.
+Read our [Code of Conduct](./CODE_OF_CONDUCT.MD) to keep our community approachable and respectable.
 
 ## Directory Structure Guide
 _The scripts are categorized by framework wise. So, developers from other stack may find useful scripts easily._
